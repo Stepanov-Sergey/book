@@ -21,5 +21,7 @@ vue init nuxt/starter project_name
 cd booktest
      npm install # Or yarn
      npm run dev
+     
+     npm run generate
 
 
