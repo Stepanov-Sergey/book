@@ -17,4 +17,9 @@ npm -v
 
 npm install --global vue-cli
 
+vue init nuxt/starter project_name
+cd booktest
+     npm install # Or yarn
+     npm run dev
+
 
